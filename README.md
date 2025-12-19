@@ -42,4 +42,3 @@ mv ./yeet /usr/local/bin/yeet
 ```
 
 Now you can run `yeet` from any directory to clean up `node_modules` folders.
-# yeet-nodemodules
